@@ -5,7 +5,7 @@
 • A dynamic, interactive data visualization tool built to analyze Awesome Chocolates sales between 03/03/2024 – 31/03/2025.
 
 3.Description
-• The Awesome Chocolates Dashboard is a visually engaging and analytical Power BI report designed to analyze chocolate sales, profit, shipment volume, and product performance across multiple regions.
+• The chocolate Sales Performance Analytics Dashboard is a visually engaging and analytical Power BI report designed to analyze chocolate sales, profit, shipment volume, and product performance across multiple regions.
 • Created KPIs to track Total Sales (77.11M), Total Profit (44.23M), Profit Percentage (57.4%), Shipment Count (14K), and Total Boxes Sold (5M).
 • Designed visualizations including trend analysis, geographic sales distribution, product performance, shipment distribution, and salesperson performance.
 • Implemented date slicers, drill-down capabilities, and interactive filters to enable dynamic business analysis.
