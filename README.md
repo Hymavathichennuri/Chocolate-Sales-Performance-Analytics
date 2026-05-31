@@ -19,8 +19,7 @@ The dashboard was built using the following tools and technologies:
 • File Format – .pbix for development and .png for dashboard preview.
 
 5.Data Source
-• Source: ChatGPT
-• Generated a sample dataset using ChatGPT in tabular format for dashboard development and analysis.
+• From Kaggle.com websibte 
 
 6.Features
 • Interactive Date Range Filter (2024–2025) for trend analysis.
